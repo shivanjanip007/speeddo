@@ -1,0 +1,276 @@
+[{
+  "_id": {
+    "$oid": "61abe7a86924eafcffecde5d"
+  },
+  "category": "Pick & Drop",
+  "title": "Daily Essentials",
+  "highlights": "Just make a list, We will get it!",
+  "details": "Daily necessities like veggies, fruits, Oil and many more. We will pick as per your list and drop at respective location",
+  "est_date": "2021-12-05",
+  "start_time": "06:00",
+  "end_time": "18:00",
+  "location": "Charlotte",
+  "image": "https://delridgegrocery.coop/wp-content/uploads/2020/08/dgc-foodbox-pickup.png",
+  "rsvp": [],
+  "host": {
+    "$oid": "61abe4cdca3bf95769b52466"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61abe8b66924eafcffecde71"
+  },
+  "category": "Pick & Drop",
+  "title": "Gifts and Lifestyle",
+  "highlights": "Surprise Someone?! Just Speeddo!",
+  "details": "Surprise with simple steps. Choose a gift store and book a delivery.",
+  "est_date": "2021-12-05",
+  "start_time": "10:00",
+  "end_time": "21:00",
+  "location": "Charlotte",
+  "image": "https://mma.prnewswire.com/media/620082/Gift_Wrap.jpg?p=twitter",
+  "rsvp": [
+    {
+      "user": {
+        "$oid": "61abebac42a0ff11ab295f84"
+      },
+      "rsvpResponse": "YES",
+      "_id": {
+        "$oid": "61ad4d22506846b0812476fc"
+      }
+    },
+    {
+      "user": {
+        "$oid": "61ad4daf506846b08124772b"
+      },
+      "rsvpResponse": "YES",
+      "_id": {
+        "$oid": "61ad4dbd506846b081247736"
+      }
+    }
+  ],
+  "host": {
+    "$oid": "61abe4cdca3bf95769b52466"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61abe92b6924eafcffecde75"
+  },
+  "category": "Quick Ride",
+  "title": "Self Ride",
+  "highlights": "What&#x27;s the better option than a self-ride bike!",
+  "details": "Get a fully insured bike with minimal human interaction. Fastest and easiest way to book our self-ride",
+  "est_date": "2021-12-05",
+  "start_time": "09:00",
+  "end_time": "18:00",
+  "location": "Charlotte",
+  "image": "https://leappakistan.com/wp-content/uploads/2018/08/Girl-On-Bike-Pakistan.jpg",
+  "rsvp": [],
+  "host": {
+    "$oid": "61abe4cdca3bf95769b52466"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61abe9a96924eafcffecde7d"
+  },
+  "category": "Quick Ride",
+  "title": "Pool Ride",
+  "highlights": "Bored of self drive! Just pool with others",
+  "details": "You can pool a ride with others who are in the same destination. You can reach the destination with extra gain",
+  "est_date": "2021-12-05",
+  "start_time": "08:00",
+  "end_time": "22:00",
+  "location": "Charlotte",
+  "image": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_956,h_537/v1569012383/assets/f9/2a4534-291c-4c99-9886-d5654fcb8b45/original/Pool.png",
+  "rsvp": [
+    {
+      "user": {
+        "$oid": "61ad4daf506846b08124772b"
+      },
+      "rsvpResponse": "YES",
+      "_id": {
+        "$oid": "61afe458d1ee778f38fbcdb6"
+      }
+    }
+  ],
+  "host": {
+    "$oid": "61abe4cdca3bf95769b52466"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61abea9c6924eafcffecde94"
+  },
+  "category": "Pet Supplies",
+  "title": "Dog Pet Store",
+  "highlights": "Get dog essentials from near by dog pet stores",
+  "details": "We have everything you need for your pet at amazing prices, every day. Explore more than 2,000 favorite brands",
+  "est_date": "2021-12-05",
+  "start_time": "09:00",
+  "end_time": "20:00",
+  "location": "Charlotte",
+  "image": "https://images.unsplash.com/photo-1516453734593-8d198ae84bcf?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGV0JTIwc2hvcHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+  "rsvp": [
+    {
+      "user": {
+        "$oid": "61ad4daf506846b08124772b"
+      },
+      "rsvpResponse": "MAYBE",
+      "_id": {
+        "$oid": "61ad4de4506846b08124774c"
+      }
+    }
+  ],
+  "host": {
+    "$oid": "61abe4cdca3bf95769b52466"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61abeb206924eafcffecde9c"
+  },
+  "category": "Pet Supplies",
+  "title": "Cat Pet Store",
+  "highlights": "Get cat essentials from near by cat pet stores",
+  "details": "We will delivery everything you need for your pet at amazing prices. Just choose the store and book a delivery",
+  "est_date": "2021-12-05",
+  "start_time": "10:00",
+  "end_time": "17:00",
+  "location": "Charlotte",
+  "image": "https://i.cbc.ca/1.5221207.1563852849!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/cat-in-a-pet-store.jpg",
+  "rsvp": [],
+  "host": {
+    "$oid": "61abe4cdca3bf95769b52466"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61abee0c42a0ff11ab295f88"
+  },
+  "category": "Door to Door",
+  "title": "House Essentials",
+  "highlights": "Pick and delivery essentials from one house to other",
+  "details": "User can delivery their items within less time. Just need to book a pick-up for respective location",
+  "est_date": "2021-12-05",
+  "start_time": "07:00",
+  "end_time": "19:00",
+  "location": "Charlotte",
+  "image": "https://cdnimg.webstaurantstore.com/uploads/blog/2017/8/delivery.jpg",
+  "rsvp": [
+    {
+      "user": {
+        "$oid": "61abe4cdca3bf95769b52466"
+      },
+      "rsvpResponse": "YES",
+      "_id": {
+        "$oid": "61ad4c7f506846b0812476a5"
+      }
+    }
+  ],
+  "host": {
+    "$oid": "61abebac42a0ff11ab295f84"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61abee6e42a0ff11ab295f8b"
+  },
+  "category": "Door to Door",
+  "title": "Emergency Delivery",
+  "highlights": "Pick and delivery emergency items like medicines",
+  "details": "Delivery emergency medicines or any other items from door to door within less time from one house to other",
+  "est_date": "2021-12-05",
+  "start_time": "07:00",
+  "end_time": "23:00",
+  "location": "Charlotte",
+  "image": "https://www.toppan.com/en/news/2020/08/t5v1940000000jq1-img/Todokusuri.jpg",
+  "rsvp": [],
+  "host": {
+    "$oid": "61abebac42a0ff11ab295f84"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61abeee242a0ff11ab295f8e"
+  },
+  "category": "Taxi Service",
+  "title": "Motorcycle Service",
+  "highlights": "Do you want to reach the destination within less time?",
+  "details": "Motorcycle taxi can dodge the traffic during peak hours and get you to the destination in a jiffy",
+  "est_date": "2021-12-05",
+  "start_time": "07:00",
+  "end_time": "16:00",
+  "location": "Charlotte",
+  "image": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/kkpdkhpvmg45rpq0wqo8",
+  "rsvp": [],
+  "host": {
+    "$oid": "61abebac42a0ff11ab295f84"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61abef4e42a0ff11ab295f91"
+  },
+  "category": "Taxi Service",
+  "title": "Car Service",
+  "highlights": "The perfect way to get through your everyday travel needs.",
+  "details": "Car taxi is available 24*7 and you can book and travel at anytime",
+  "est_date": "2021-12-05",
+  "start_time": "09:00",
+  "end_time": "21:00",
+  "location": "Charlotte",
+  "image": "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_956,h_537/v1569012661/assets/19/dea9bc-88d6-461e-a233-17ed4d8cdc09/original/Taxi.png",
+  "rsvp": [],
+  "host": {
+    "$oid": "61abebac42a0ff11ab295f84"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61abefc542a0ff11ab295f94"
+  },
+  "category": "Food Delivery",
+  "title": "South Indian Cuisine",
+  "highlights": "Do you want to explore the authentic cuisine at your location?!",
+  "details": "Just Speeddo! Sitting at home and eating your delicious South Indian food will be delivery from your favorite restaurants",
+  "est_date": "2021-12-05",
+  "start_time": "10:00",
+  "end_time": "20:00",
+  "location": "Charlotte",
+  "image": "https://img.cdn4dd.com/cdn-cgi/image/fit=cover,width=600,height=400,format=jpeg,quality=50/https://doordash-static.s3.amazonaws.com/media/store/header/9101bab3-dd3a-4b2b-b31d-c1712c7d59d8.jpg",
+  "rsvp": [
+    {
+      "user": {
+        "$oid": "61ad4daf506846b08124772b"
+      },
+      "rsvpResponse": "NO",
+      "_id": {
+        "$oid": "61afe463d1ee778f38fbcde2"
+      }
+    }
+  ],
+  "host": {
+    "$oid": "61abebac42a0ff11ab295f84"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61abf01e42a0ff11ab295f97"
+  },
+  "category": "Food Delivery",
+  "title": "Italian Cuisine",
+  "highlights": "Mediterranean cuisine in your hands!!",
+  "details": "Get authentic Italian foods for you from us from any location, just Speeddo! Food will be delivery in mentioned time periods",
+  "est_date": "2021-12-05",
+  "start_time": "11:00",
+  "end_time": "20:00",
+  "location": "Charlotte",
+  "image": "https://images.squarespace-cdn.com/content/v1/5e484ab628c78d6f7e602d73/1599248222831-ZMHAFYJT9T3IXH3IVGKY/What-to-eat-in-Italy.png",
+  "rsvp": [],
+  "host": {
+    "$oid": "61abebac42a0ff11ab295f84"
+  },
+  "__v": 0
+}]

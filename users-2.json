@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "6195b28b21893461f0bede97"
+  },
+  "firstName": "shiv",
+  "lastName": "p",
+  "email": "shivp@gmail.com",
+  "password": "$2b$10$qnciPaxaj2uq4cb7UwG.q.Cyd1h9f7nSN7NwUszEYk.MlXM0tKPtq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6195c27d5f18b8044ce64e85"
+  },
+  "firstName": "bob",
+  "lastName": "r",
+  "email": "bob@gmail.com",
+  "password": "$2b$10$2BAj31boiBs.c9WVD7RtxO.KQsRazlCEp4HUrGAY6WFkqSGQ4dFwi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6195cbcbe8515528a4b92b11"
+  },
+  "firstName": "Shivanjani",
+  "lastName": "Pathipaka",
+  "email": "shivanjanip@gmail.com",
+  "password": "$2b$10$B4u/dRJHEVYKgwxTn7buQuotjFY9EGwzzTdlx1cIpL3uIvuecW/SW",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6195cd2ce8515528a4b92b12"
+  },
+  "firstName": "Shivanjani",
+  "lastName": "P",
+  "email": "shivanjani@gmail.com",
+  "password": "$2b$10$/0MtlHeXZKWRkdc6uLe1zOyVOvR7TEz9rMRcp5MACV2VEBWW/eUkm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6195d6c948f1834a146e4e50"
+  },
+  "firstName": "Rio",
+  "lastName": "P",
+  "email": "riop@gmail.com",
+  "password": "$2b$10$odGwWWa/0X7KjNc9Fn26oejsK//c001PcrQgUAMSAdKtiAs.3Mgcm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6196da3977d43952dca5fb9b"
+  },
+  "firstName": "s",
+  "lastName": "p",
+  "email": "sp@gmail.com",
+  "password": "$2b$10$ZGLQY20/V1scCdcuhTKCJ.MKLZ7tKXUEKpL.I.KlTRfj6xNeARfvq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a99f05acd3039fd14ff3c9"
+  },
+  "firstName": "prem",
+  "lastName": "k",
+  "email": "prem@gmail.com",
+  "password": "$2b$10$dUM6cW1UYJYWsUYyyjjHDOYY8nb2hAiQcUXReV1yQeYLX/zZbNabG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61abe4cdca3bf95769b52466"
+  },
+  "firstName": "Shivi",
+  "lastName": "P",
+  "email": "shivi@gmail.com",
+  "password": "$2b$10$6iaSlpLVOyn9hKyZ2UEoAeKeejImGkaBPQ8Avzz26DVnkYgimjxFm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61abebac42a0ff11ab295f84"
+  },
+  "firstName": "Pimpi",
+  "lastName": "V",
+  "email": "pimpi@gmail.com",
+  "password": "$2b$10$XRfzFR.uNJWi0yw4YdpPqutX0S6YM2QA5XeFWasKlpV7XjIks32IW",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ad4daf506846b08124772b"
+  },
+  "firstName": "Ammu",
+  "lastName": "P",
+  "email": "ammu@gmail.com",
+  "password": "$2b$10$GsMEKcw4MTAYwkxhMBM4COwBeLcADnzwWS9zS2FmQqdwnfyTEX/SC",
+  "__v": 0
+}]
